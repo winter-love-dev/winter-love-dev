@@ -1,52 +1,25 @@
+# Seonghun Kim, Android Developer
 
-<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50"/>
+### 🛠 Careers
 
-<h1>
-  Hello, Im Android Developer 
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
-</h1>
+**[MVL, easi6](https://mvl.oopy.io/b6de68a1-5c37-4e6e-85d9-9949c2dc0f14)** (2023.12 ~ Now) / **TADA Android Engineer** at Southeast Asia, USA
 
-## A little more about me... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+**Tech tree company** (2023.03 ~ 2023.11) / **LG Thinq kiosk Android App Engineer** / LG appliances IoT controller 
 
-```kotlin
-SeongHunKim(
-  name      = "김성훈",
-  challenge = "저는 모바일 세상을 더 멋지게 만드는 일을 하고 있어요",
-  android   = arrayOf("AAC", "MVVM", "Jetpack", "Coroutine"),
-  code      = arrayOf("Kotlin", "Java", "Swift", "Dart"),
-  platform  = arrayOf("Android", "iOS", "Flutter"),
-  tools     = arrayOf("Android Studio", "Some Intellij IDEA", "Xcode"),
-)
-```
-<!-- 
-<br/>
+**[Hexlant](https://walletone.io/ko)** (2021.02 ~ 2023.02) / **Android, iOS Engineer** / Token bank web3 Wallet App 
 
-2020년 8월 ~ 2021년 1월
+### 🗣️ Speech
+- [10년 개발한 프로젝트. 애자일 업무 조직에서 모듈화 했던 경험을 공유합니다](https://speakerdeck.com/winterlovedev/android-modularization-experience)
 
-### 💻 work experience
-- <b>2023.03</b> ~ 2023.07<br/>
-(프리랜서) LG BestShop ThinQ 키오스크 프로젝트
+### 📝 Recent articles
+- [구글페이가 안 되는 나라에서 구글페이 구현작업 하는 안드로이드 개발자의 잡다한 인사이트](https://winter-love.dev/insights/working-on-google-pay-in-korea/)
+- [GDG Korea Android 개발자 행사의 스피커가 되었습니다. super.init(version=6) 후기](https://winter-love.dev/life/super-init-v6-review/)
+- [Detekt vs KtLint vs Spotless 비교](https://winter-love.dev/android/research-lint-library/)
 
-- <b>2021.02 ~ 2023.02</b> <br/>
-블록체인 연구소 헥슬란트
+### 📫 How to reach me
+[Linkedin.com/in/sam-winter-h](www.linkedin.com/in/sam-winter-h)
 
-- <b>2022.08 ~ 2021.01</b> <br/>
-주식회사 오퍼튜니티 (폐업)
-
-<br/>
-<br/>
- -->
-
-<!-- <a href="https://github.com/winter-love-dev"><img style="height:170px" src="https://github-readme-stats.vercel.app/api?username=winter-love-dev&show_icons=true&include_all_commits=true&theme=monokai&hide_border=true" alt="Winter's github stats" /></a>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=keems)](https://solved.ac/keems/)  -->
-
-<br/>
-<!-- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winter-love-dev&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
- -->
-<br/>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwinter-love-dev%2Fhit-counter&count_bg=%23000000&title_bg=%2379C83D&icon=android.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-
-
+### ✍️ Open Source Projects
+Contributor 
+- [stripe/stripe-android](https://github.com/stripe/stripe-android/pull/10950)
+- [droidknights/DroidKnightsApp](https://github.com/droidknights/DroidKnightsApp/pull/480)
