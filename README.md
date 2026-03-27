@@ -18,7 +18,9 @@
 - [Detekt vs KtLint vs Spotless 비교](https://winter-love.dev/android/research-lint-library/)
 
 ### 📫 How to reach me
-[Linkedin.com/in/sam-winter-h](www.linkedin.com/in/sam-winter-h)
+
+- [Linkedin.com/in/sam-winter-h](www.linkedin.com/in/sam-winter-h)
+- developer@winter-love.dev
 
 ### ✍️ Open Source Projects
 Contributor 
