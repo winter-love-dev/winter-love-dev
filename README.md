@@ -19,7 +19,7 @@
 
 ### 📫 How to reach me
 
-- [Linkedin.com/in/sam-winter-h](www.linkedin.com/in/sam-winter-h)
+- www.linkedin.com/in/sam-winter-h
 - developer@winter-love.dev
 
 ### ✍️ Open Source Projects
