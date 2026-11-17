@@ -2,7 +2,7 @@
 
 ### 🛠 Careers
 
-**[MVL, easi6](https://mvl.oopy.io/b6de68a1-5c37-4e6e-85d9-9949c2dc0f14)** (2023.12 ~ Now) / **TADA Android Engineer** at Southeast Asia, USA
+**[MVL, easi6](https://mvlchain.io/)** (2023.12 ~ Now) / **TADA Android Engineer** at Southeast Asia, USA
 
 **[Tech tree company](https://bytechtree.com/)** (2023.03 ~ 2023.11) / **LG Thinq kiosk Android App Engineer** / LG appliances IoT controller App
 
